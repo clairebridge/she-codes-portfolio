@@ -1,5 +1,5 @@
 # Claire Delosa - Portfolio Task
-[My portfolio site]( {{ link_to_your_site }} )
+[My portfolio site]( https://clairebridge.github.io/she-codes-portfolio/ )
 ## Project Requirements
 ### Content
 {{ Add a short paragraph describing the features below. }}
