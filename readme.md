@@ -31,4 +31,4 @@ screenshot that shows that.
 > You can do this by saving the images in a folder in your repo, and including
 them in your readme document with the following Markdown code:
 #### {{ image_title }}
-![Description of image](./project-img.png)
+![Description of image](./profile-pic.svg)
